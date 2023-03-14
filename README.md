@@ -8,8 +8,6 @@ Muz      : 0.95 TL
 Patlıcan : 5.00 TL
 
  <h1>BAŞLIK - 1</h1>
-   <h2>BAŞLIK - 2</h2>
-   <h3>BAŞLIK - 3</h3>
-   <h4>BAŞLIK - 4</h4>
-   <h5>BAŞLIK - 5</h5>
-   <h6>BAŞLIK - 6</h6>
+ <h1>BAŞLIK - 1</h1>
+ <h1>BAŞLIK - 1</h1>
+ <h1>BAŞLIK - 1</h1>
