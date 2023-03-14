@@ -1,13 +1,10 @@
 Ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program
 
-Meyveler ve KG Fiyatları
-Armut    : 2.14 TL 
-Elma     : 3.67 TL
-Domates  : 1.11 TL
-Muz      : 0.95 TL
-Patlıcan : 5.00 TL
+<h1>Meyveler ve KG Fiyatları</h1>
+<h1>Armut    : 2.14 TL </h1>
+<h1>Elma     : 3.67 TL</h1>
+<h1>Domates  : 1.11 TL</h1>
+<h1>Muz      : 0.95 TL</h1>
+<h1>Patlıcan : 5.00 TL</h1>
 
- <h1>BAŞLIK - 1</h1>
- <h1>BAŞLIK - 1</h1>
- <h1>BAŞLIK - 1</h1>
- <h1>BAŞLIK - 1</h1>
+
